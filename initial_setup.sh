@@ -43,6 +43,7 @@ sudo echo "sudo java -Xmx1024M -jar spigot-1.16.5.jar" >> ~/spigot/start.sh #If 
 	#lastly  run "java -Xmx1024M -jar spigot-1.16.5.jar"
 
 sudo chmod +x ~/spigot/start.sh #Make start.sh an executable file 
+
 #Install latest version of pymineapi -> we will use python3.8 to minimize potential dependency issues. 
 sudo pip3 install git+https://github.com/py3minepi/py3minepi/ 
 echo "Installation and setup complete! Test and validate install-setup by running: ./~/spigot/start.sh in the terminal.
