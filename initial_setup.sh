@@ -1,7 +1,5 @@
 #!/bin/sh
 
-#This is an executable file that will set up linux ubuntu.
-
 #RUN in terminal with command: sudo ./initial_setup.sh
 #sudo will prompt for a user password. When typing password, text will be hidden.  
 #References: https://gist.github.com/bendavis78/37a2e8006c430dcd9b1194f63a62046d 
